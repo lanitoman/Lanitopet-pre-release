@@ -95,7 +95,7 @@ LanitoPet/
 ## 📬 Contact
  
 **Developer:** Lanitoman
-**Email:** lanitoman@gmail.com
+**Email:** lanitomanmd@gmail.com
  
 ---
  
